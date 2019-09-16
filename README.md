@@ -1,2 +1,6 @@
-# symphony4
-Test task crud
+Приложение позоляет вывести список пользователей а так же добавить юзера.
+
+Базовые роуты: 
+GET:/api/users
+POST:/api/user/save
+
